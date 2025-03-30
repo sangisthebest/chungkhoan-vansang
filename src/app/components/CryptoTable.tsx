@@ -356,7 +356,7 @@
 import React, { useEffect, useState } from "react";
 import { fetchCryptoData } from "../services/cryptoService";
 import { useRouter } from "next/navigation";
-import Header from "../components/Header"; 
+
 
 interface CryptoData {
   ticker: string;

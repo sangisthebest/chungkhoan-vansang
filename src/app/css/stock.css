@@ -1,0 +1,26 @@
+.stock-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .stock-table th, .stock-table td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  .green {
+    color: #00c853; /* Màu xanh lá cây */
+    font-weight: bold;
+  }
+  
+  .red {
+    color: #d50000; /* Màu đỏ */
+    font-weight: bold;
+  }
+  
+  .yellow {
+    color: #ffab00; /* Màu vàng */
+    font-weight: bold;
+  }
+  
